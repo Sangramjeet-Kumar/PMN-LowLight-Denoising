@@ -4,3 +4,16 @@ images/*
 *.pth
 saved_model/*
 logs/*
+
+# Generated outputs and temporary experiment folders
+results*/
+bench_*/
+exports*/
+rgb_finetune*/
+
+# Presentation or local notes (keep only README.md in repo root)
+DEMO_INSTRUCTIONS.txt
+PRESENTATION_SCRIPT.md
+ABLATION_STUDY.md
+Original_README.md
+Paper.tex
