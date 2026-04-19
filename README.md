@@ -1,3 +1,7 @@
+Project Video Link:
+Phase 1 > https://www.youtube.com/watch?v=uPe5c8YwooI
+Phase 2 > https://www.youtube.com/watch?v=zUPVUxxXVDI
+
 # PMN-LowLight-Denoising
 
 Practical extension of PMN for low-light denoising with a complete submission-ready workflow: inference, benchmarking, GUI, temporal video smoothing, synthetic domain adaptation, RGB fine-tuning, and deployment export.
